@@ -46,3 +46,4 @@ class ItemsControllerTest < ActionDispatch::IntegrationTest
     assert_redirected_to items_url
   end
 end
+
